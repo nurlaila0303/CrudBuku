@@ -1,0 +1,8 @@
+{
+    "name": "nurlaila/kuliahweb2022",
+    "description": "ini adalah tugas saya",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.58"
+    }
+}
